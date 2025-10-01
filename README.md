@@ -294,3 +294,4 @@ For questions or issues:
 5. **Deploy to production** - Share your application
 
 This frontend provides a solid foundation for building modern React applications with TypeScript and Tailwind CSS!
+"# mce-student-portal-frontend" 
